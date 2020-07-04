@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/KyraZheng/Xquicy/issues"
   },
-  "homepage": "https://github.com/KyraZheng/Xquicy#readme"
+  "homepage": "https://github.com/KyraZheng/Xquicy#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
