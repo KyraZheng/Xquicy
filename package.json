@@ -1,0 +1,23 @@
+{
+  "name": "xquicy",
+  "version": "0.0.1",
+  "description": "这是一个简易UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyraZheng/Xquicy.git"
+  },
+  "keywords": [
+    "Vue",
+    "UI"
+  ],
+  "author": "KyraZh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KyraZheng/Xquicy/issues"
+  },
+  "homepage": "https://github.com/KyraZheng/Xquicy#readme"
+}
